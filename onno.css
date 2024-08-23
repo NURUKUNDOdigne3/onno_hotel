@@ -1,0 +1,33 @@
+.navbar{
+
+    background-color: blue;
+
+}
+.nav{
+    float:right;
+   
+}
+a{
+    color: rgb(44, 40, 40);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+    
+
+.Logo{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size:23px ;
+    font-weight: bolder;
+    padding:10px;
+} 
+.logo p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    
+}
+h1{
+ color: black;
+
+} 
